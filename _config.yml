@@ -3,7 +3,7 @@
 # Website settings
 title: "John Anthony Dorey"
 description: "Personal website of John Anthony Dorey"
-keywords: "johnadorey"
+keywords: "jdorey"
 baseurl: "/"
 url: "http://jdorey.github.io"
 # url: "http://127.0.0.1:4000"
