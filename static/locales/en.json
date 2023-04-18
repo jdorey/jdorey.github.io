@@ -1,20 +1,20 @@
 {
   "website":{
-    "title": "John's blog"
+    "title": "Jack's blog"
   },
   "nav":{
     "home": "Home",
     "about_me": "About",
     "skills": "Skills",
     "projects": "Projects",
-    "expanded": "Expanded",
+    "publications": "Publications",
     "career": "Career",
     "blog": "Blog",
     "link": "Link"
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "Currently I am a full-stack developer in Conway Arkansas. I am passionate about web dev, playing the guitar, and photography."
+    "des": "I am a researcher focusing on medical imaging, pattern recognition, and machine learning. I strive for open source and open data."
   },
   "skills":{
     "my_skills": "My Skills"
@@ -45,8 +45,8 @@
     "college_date": "Jul. 2013",
     "college_job": "Student"
   },
-  "expanded":{
-    "my_expanded": "Expanded"
+  "publications":{
+    "my_publications": "My Publications"
   },
   "blog":{
     "my_blog": "My Blog"
