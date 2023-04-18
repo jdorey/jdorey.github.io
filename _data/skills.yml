@@ -11,7 +11,7 @@
   percentage: 95
 
 - name: Adaptability
-  percentage: 85
+  percentage: 92
 
 - name: Responsive design
   percentage: 90
@@ -20,22 +20,22 @@
   percentage: 90
 
 - name: Git
-  percentage: 98
+  percentage: 93
 
-- name: Machine Learning
-  percentage: 98
+- name: AWS
+  percentage: 87
 
 - name: Collaboration
   percentage: 98
 
 - name: Dota 2
-  percentage: 90
+  percentage: 95
 
 - name: Linode
-  percentage: 95
+  percentage: 80
 
 - name : Vue / Angular.JS
-  percentage: 50
+  percentage: 65
 
 - name: MySQL / Oracle
-  percentage: 95
+  percentage: 85
