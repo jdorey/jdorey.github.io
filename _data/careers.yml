@@ -1,0 +1,97 @@
+- name:
+    detail: Dorey's Catfish Catering
+    i18n: re
+  desc:
+    detail: Running the day-to-day operations of our catering services. Dorey's has been in the Catfish business for over 30 years, currently operating food trucks in four locations while running two trailers for catering.
+    i18n: re_des
+  date:
+    detail: 2021 - Present
+    i18n: re_date
+  job:
+    detail: Manager
+    i18n: re_job
+  icon: fa-search
+
+- name:
+    detail: Metova
+    i18n: postdoc
+  desc:
+    detail: Managed the portfolio from Metova's acquisition of Clocktower Media. Handled resource planning, project timeline estimations, and overall project delivery, while maintaining project management responsibilities.
+    i18n: postdoc_des
+  date:
+    detail: 2017 - 2020
+    i18n: postdoc_date
+  job:
+    detail: Full-Stack Developer
+    i18n: potdoc_job
+  icon: fa-search
+
+- name:
+    detail: Eyenalyze
+    i18n: phd
+  desc:
+    detail: After Eyenalyze sold to Rising Sun Ventures, helped with the transition process to the new team at LinkPOS.
+    i18n: phd_des
+  date:
+    detail: 2017 - 2017
+    i18n: phd_date
+  job:
+    detail: Consultant
+    i18n: phd_job
+  icon: fa-search
+
+- name:
+    detail: Eyenalyze
+    i18n: bd
+  desc:
+    detail: Hired full time to work on Eyenalyze transition from a WP site to a PHP/Laravel stack. Main responsibilities include but not consists of handling 3rd party integrations, doing front/back end design, and Database Management.
+    i18n: bd_des
+  date:
+    detail: 2014 - 2017
+    i18n: bd_date
+  job:
+    detail: Full-Stack Developer
+    i18n: bd_job
+  icon: fa-search
+
+- name:
+    detail: Eyenalyze
+    i18n: vibot
+  desc:
+    detail: While learning through Laracast, Laravel's learning accademy, completed data entry and develped my Front-End skills.
+    i18n: vibot_des
+  date:
+    detail: 2013 - 2014
+    i18n: vibot_date
+  job:
+    detail: Intern / Data Entry
+    i18n: vibot_job
+  icon: fa-book
+
+- name:
+    detail: Dorey's Catfish Catering
+    i18n: EE, UTP
+  desc:
+    detail: During high school and college, I worked as a frycook for the family business. Learning how to be dedicated to a job while maintaining composure in a high-stress environment.
+    i18n: utp_des
+  date:
+    detail: 2011 - 2013
+    i18n: utp_date
+  job:
+    detail: Cook
+    i18n: utp_job
+  icon: fa-book
+
+  - name:
+      detail: University of Centeral Arkansas
+      i18n: EE, UTP
+    desc:
+      detail: I originally attended UCA to be an engineer, but after seeing the wide range of possibilities of programming in a STEM Club lecture, I switched for a Bachelor's in Computer Science.
+      i18n: utp_des
+    date:
+      detail: 2011 - 2014
+      i18n: utp_date
+    job:
+      detail: Cook
+      i18n: college
+    icon: fa-book

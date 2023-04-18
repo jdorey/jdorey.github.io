@@ -1,0 +1,41 @@
+- name: PHP (CodeIgniter/Laravel)
+  percentage: 98
+
+- name: Javascript
+  percentage: 95
+
+- name: APIs
+  percentage: 90
+
+- name: HTML/CSS
+  percentage: 95
+
+- name: Adaptability
+  percentage: 85
+
+- name: Responsive design
+  percentage: 90
+
+- name: Time management
+  percentage: 90
+
+- name: Git
+  percentage: 98
+
+- name: Machine Learning
+  percentage: 98
+
+- name: Collaboration
+  percentage: 98
+
+- name: Dota 2
+  percentage: 90
+
+- name: Linode
+  percentage: 95
+
+- name : Vue / Angular.JS
+  percentage: 50
+
+- name: MySQL / Oracle
+  percentage: 95
