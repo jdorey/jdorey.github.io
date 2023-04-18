@@ -6706,12 +6706,15 @@ body.landing-page {
 }
 .landing-page .header-back.one {
     background: url('../img/landing/header_one.jpg');
+    background-size: cover;
 }
 .landing-page .header-back.two {
     background: url('../img/landing/header_two.jpg');
+    background-size: cover;
 }
 .landing-page .header-back.three {
     background: url('../img/landing/header_three.jpg');
+    background-size: cover;
 }
 .landing-page .carousel {
     height: 470px;
