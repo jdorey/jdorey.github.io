@@ -1,22 +1,22 @@
-- name: Melanoma Cancer
+- name: PHP (CodeIgniter/Laravel)
   percentage: 98
 
-- name: Python
+- name: Javascript
   percentage: 95
 
-- name: Polarized Imaging
+- name: APIs
   percentage: 90
 
-- name: Matlab
+- name: HTML/CSS
   percentage: 95
 
-- name: Retinopathy
+- name: Adaptability
   percentage: 85
 
-- name: C/C++
-  percentage: 60
+- name: Responsive design
+  percentage: 90
 
-- name: Pattern Recognition
+- name: Time management
   percentage: 90
 
 - name: Git
@@ -25,17 +25,17 @@
 - name: Machine Learning
   percentage: 98
 
-- name: Data Mining
+- name: Collaboration
   percentage: 98
 
-- name: Computer Vision
+- name: Dota 2
   percentage: 90
 
-- name: Linux/Unix
+- name: Linode
   percentage: 95
 
-- name : ROS
-  percentage: 90
+- name : Vue / Angular.JS
+  percentage: 50
 
-- name: Latex
+- name: MySQL / Oracle
   percentage: 95
