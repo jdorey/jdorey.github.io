@@ -7,14 +7,14 @@
     "about_me": "About",
     "skills": "Skills",
     "projects": "Projects",
-    "publications": "Publications",
+    "publications": "Extended",
     "career": "Career",
     "blog": "Blog",
     "link": "Link"
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a researcher focusing on medical imaging, pattern recognition, and machine learning. I strive for open source and open data."
+    "des": "Currently I am a full-stack developer in Conway Arkansas. I am passionate about web dev, playing the guitar, and photography."
   },
   "skills":{
     "my_skills": "My Skills"
